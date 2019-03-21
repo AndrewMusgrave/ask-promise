@@ -1,0 +1,35 @@
+{
+  "name": "ask-promise",
+  "version": "0.1.0",
+  "description": "Ask a question or set of questions",
+  "license": "MIT",
+  "author": {
+    "name": "Andrew Musgrave",
+    "email": "andrewdmusgrave@gmail.com",
+    "url": "https://github.com/AndrewMusgrave"
+  },
+  "repository": "https://github.com/AndrewMusgrave/ask-promise",
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=7.6"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ask",
+    "promise",
+    "ask-promise",
+    "node",
+    "stdin",
+    "sync",
+    "await",
+    "async",
+    "line",
+    "keyboard",
+    "prompt",
+    "command"
+  ]
+}
